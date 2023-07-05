@@ -1,0 +1,9 @@
+server:
+  port: 9001
+
+# es配置
+es:
+  username: elastic
+  password: elasticsearch123
+  host: localhost
+  port: 9200
