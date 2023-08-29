@@ -346,7 +346,7 @@ public class ElasticsearchUtil {
     }
     //endregion
 
-    //region doc 更新
+    //region doc 删除
 
     /**
      * 文档删除
